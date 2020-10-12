@@ -42,3 +42,7 @@ The nRF52840 Dongle can be programmed through the built-in USB bootloader.
 
 ### Hardware description
 The nRF52840 Dongle can be used as a development platform for the nRF52840 SoC. It features user configurable LEDs and a button as well as multiple GPIOs available along the board edges. In addition to radio communication, the nRF5240 SoC can communicate with a computer through USB.
+
+# GNU Arm Embedded Toolchain Downloads (version 7-2018-q2-update)
+https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads
+
